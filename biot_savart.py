@@ -31,3 +31,4 @@ for j in range(0,15):
     field.append(tdfield[0])
 plt.scatter(r, field)
 plt.show()
+#test
